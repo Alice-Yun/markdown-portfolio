@@ -1,0 +1,3 @@
+- Hiking
+- Birding
+- Watching TV series
