@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My English name is **Alice**.
+My Chinese name is _**Wu Yun**_
